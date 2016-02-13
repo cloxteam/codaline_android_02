@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Codaline_02</string>
+    <string name="btn_calc">Calculate</string>
+    <string name="txt_entr">Nothing Entered</string>
+</resources>
