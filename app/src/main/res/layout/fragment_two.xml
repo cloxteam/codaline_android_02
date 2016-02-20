@@ -11,4 +11,6 @@
         android:id="@+id/txt_count_of_symbols"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
+
+
 </RelativeLayout>
